@@ -14,6 +14,6 @@
    $ streamlit run streamlit_app.py
    ```
    or
-```
+   ```
    $ python -m streamlit run streamlit_app.py
    ```
